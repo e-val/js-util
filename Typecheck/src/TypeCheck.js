@@ -3,9 +3,9 @@
  */
 define(function(){
 
-    var TypeCheck = {};
-
     var toString = Object.prototype.toString;
+
+    var TypeCheck = {};
 
     TypeCheck.isObject = function isObject(o){
         return toString.call(o) == "[object Object]";
