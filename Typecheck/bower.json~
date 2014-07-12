@@ -1,0 +1,13 @@
+{
+  "name": "Typecheck",
+  "version": "1.0.0",
+  "authors": [
+    "evr- <erik_266@hotmail.com>"
+  ],
+  "description": "Javascript typecheck module",
+  "main": "src/Typecheck.js",
+  "keywords": [
+    "typecheck"
+  ],
+  "license": "MIT"
+}
